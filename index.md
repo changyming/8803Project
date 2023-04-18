@@ -14,11 +14,11 @@ My goals will be as following bullets:
 
 - Generate the numerical matrix using TD-IDF
 
--Create SVM, CNN, CNN-LSTM models
+- Create SVM, CNN, CNN-LSTM models
 
 - Tune Hyperparameters and Get the best models
 
--Compare the performance of each model and generate the confusion matrix of each model
+- Compare the performance of each model and generate the confusion matrix of each model
 
 ## Results
 
