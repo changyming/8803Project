@@ -1,32 +1,26 @@
-# Automatic indoor light adjustment
-- Weijia Cai, Yuming Chang
+# Analysis of Covid-19 Vaccine Sentiment
+- Yuming Chang
 
-Video link: [link](https://youtu.be/b7U7djRR5X8)
 
-## Introduction
-### Motivation
-Life is not easy for CMU student. Reports said that the average sleeping time of CMU student in at 1:36am. So, working in the night with comfortable light is very essential for every one of us. Also, an energy-saving light system will benefit a lot because it saves money. Based on these reasons, we want to design an automatic indoor light adjustment system to make our lives a little bit easier
+## Introduction/Summary
+To analyze the sentiment of people's post on the social media is useful for understanding the opinion on crucial topics and providing customized service based on those information. It's impossible for people to do sentiment analysis by themselves, since the huge amount of data and bias from different person. In this project, I will introduce a method how to generate the sentiment based on the pure text using TextBlob and convert the text data into numeric matrix using TF-IDF method. After that, three machine learning and deep learning model are developed: Support Vector Machine (SVM), Convolutional Neural Network (CNN) and Graph Neural Network (GNN) to compared the performance of the three models on the sentiment prediction. And in this project, SVM model will serve as the baseline. The confusion matrix of each model also provided to see how each model performance on different class.
 
 ### Goals
-Generally, we want to use an energy saving strategy to optimize the experience of our users. Based on that, our goals will be as following bullets:
+My goals will be as following bullets:
 
-- Confirm the comfortable range of light intensity for group members
+- Clean the tweet data, such as remove the special marks.
 
-- Automatically control the number of opening LEDs for several scenarios:
+- Generate the sentiment of the tweet text using TextBlob method.
 
-    - No Human
- 
-    - Exist Human, should be with suitable light intensity
+- Generate the numerical matrix using TD-IDF
 
-- Monitor the light using and human existence with Openchirp
- 
-The important part to achieve our objectives is 2 things:
+-Create SVM, CNN, CNN-LSTM models
 
-1. Sense the existence of Human
+- Tune Hyperparameters and Get the best models
 
-2. Decision making progress for the automatic light adjustment
+-Compare the performance of each model and generate the confusion matrix of each model
 
-## Progress report
+## Results
 
 ### Progress step by step
 Currently, we have basically two main tasks to solve:
@@ -377,42 +371,4 @@ tested objectives
 <p align="center">
   Figure 18. Experiment environment
  </p>
-
-## Discussion
-
-
-In this project, we present a real-life issue, how to control our indoor light and temperature more intelligent. We solve this problem by selecting the sensors, validation method, and testing process we learned from class, to achieve our goals.  Those goals are to successfully achieve a way to control our light system automatically when the light doesn't accommodate to our preference. After knowing what phenomena we interest, we choose DHT 11, PIR and Photosensitive Light Sensor to achieve our goals. Then we design the experiment environment, circuit, and also the code to achieve those goals. 
-
-With collecting data from sensors, calibration and sending commands to the actuator, we become familiar with the complete process of using sensors.
-
-Although, we have spent a lot of time in this project. Due to the limitation of the equipment and cooperation, There are some imperfections, for example, we just use DHT 11 to detect the temperature and with the result, we did nothing. So, if we have a chance, we can design a more mature system, using some other equimpent to adjust the temperature. We just use one light sensor to detect light intensity, which causes we can't tell the environmental light intensity and artificial light intensity. So there are some problems, we want to solve in the future.
-
-With this group project, we also different kinds of problems, by solving them enhance our knowledge about sensor and code. 
-
-Thanks to the assistance of Professor Mario and TAs, their help and patience make us finish this project successfully.
-
-## Referrence
-[1]  The Electromagnetic Spectrum. Mini Physics, https://www.miniphysics.com/electromagnetic-spectrum_25.html
-
-[2] The Sky Is Only Sometimes Blue, https://whybecausescience.wordpress.com/tag/electromagnetic-spectrum/
-
-[3] Temperature and Thermometers, https://www.physicsclassroom.com/class/thermalP/Lesson-1/Temperature-and-Thermometers
-
-[4] The Electromagnetic Spectrum, https://courses.lumenlearning.com/physics/chapter/24-3-the-electromagnetic-spectrum/
-
-[5] What is Infrared Radiation (IR)?, http://how-it-looks.blogspot.com/2010/01/what-is-infrared-radiation-ir.html
-
-[6] MCP3008 Tutorial 01: Functionality Overview, https://rheingoldheavy.com/mcp3008-tutorial-01-functionality-overview/
-
-[7] MCP3008 8-Channel 10-Bit ADC With SPI, https://osoyoo.com/2017/07/18/mcp3008-8-channel-10-bit-adc-with-spi/
-
-[8],[9] Photoresistor Basics: Types, Principles and Applications, https://www.utmel.com/blog/categories/resistor/photoresistor-basics-types-principles-and-applications
-
-[10],[11],[12],[13] DHT11 & DHT22 Sensors Temperature and Humidity Tutorial using Arduino, https://howtomechatronics.com/tutorials/arduino/dht11-dht22-sensors-temperature-and-humidity-tutorial-using-arduino/#:~:text=DHT11%20%2F%20DHT22%20Working%20Principle&text=They%20consist%20of%20a%20humidity,back%20side%20of%20the%20sensor.&text=So%20as%20the%20humidity%20changes,resistance%20between%20these%20electrodes%20changes.
-
-[14],[15] Electronics Tutorials, https://www.electronics-tutorials.ws/io/thermistors.html
-
-[16],[17] How HC-SR501 PIR Sensor Works & Interface It With Arduino, https://lastminuteengineers.com/pir-sensor-arduino-tutorial/
-
-
 
