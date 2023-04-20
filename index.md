@@ -21,44 +21,46 @@ My goals will be as following bullets:
 - Compare the performance of each model and generate the confusion matrix of each model
 
 ## Results
- <p align="middle">
-  <img src="https://github.com/changyming/8803Project/blob/webpage/dist1.png" width=500>
- </p>
- 
- <p align="middle">
-  Fig6. evaluation table
- </p>
 
 <p align="middle">
   <img src="https://github.com/changyming/8803Project/blob/webpage/CNN123.png?raw=true" width="500">
- </p>
- <p align="middle">
+</p>
+
+<p align="middle">
   Fig1. confusion matrix of CNN model
- </p>
- <p align="middle">
-  <img src="https://github.com/changyming/8803Project/blob/webpage/NB.png?raw=true" width="500">
-  </p>
-  <p align="middle">
-  Fig2. confusion matrix of Naive Bayes model
- </p>
- <p align="middle">
-  <img src="https://github.com/changyming/8803Project/blob/webpage/SVM.png?raw=true" width="500">
- </p>
-  <p align="middle">
-  Fig3. confusion matrix of SVM model
- </p>
- <p align="middle">
-  <img src="https://github.com/changyming/8803Project/blob/webpage/RF.png?raw=true" width="500">
- </p>
- <p align="middle">
-  Fig4. confusion matrix of Random Forest model
- </p>
- <p align="middle">
-  <img src="https://github.com/changyming/8803Project/blob/webpage/XG.png?raw=true" width=500>
- </p>
- <p align="middle">
-  Fig5. confusion matrix of XG Boost model
- </p>
+</p>
+ 
+<p align="middle">
+ <img src="https://github.com/changyming/8803Project/blob/webpage/NB.png?raw=true" width="500">
+</p>
+
+<p align="middle">
+ Fig2. confusion matrix of Naive Bayes model
+</p>
+
+<p align="middle">
+ <img src="https://github.com/changyming/8803Project/blob/webpage/SVM.png?raw=true" width="500">
+</p>
+
+<p align="middle">
+ Fig3. confusion matrix of SVM model
+</p>
+
+<p align="middle">
+ <img src="https://github.com/changyming/8803Project/blob/webpage/RF.png?raw=true" width="500">
+</p>
+
+<p align="middle">
+ Fig4. confusion matrix of Random Forest model
+</p>
+
+<p align="middle">
+ <img src="https://github.com/changyming/8803Project/blob/webpage/XG.png?raw=true" width=500>
+</p>
+
+<p align="middle">
+ Fig5. confusion matrix of XG Boost model
+</p>
 
 ## Conclusion
 Based on the results, we can see that the accuracy of each model is better than the baseline model. However, the training time for other models is longer than the baseline model. In this project, The XG Boost and SVM have the best prediction accuracy. However, due to the number of training data and the dimension of the dataset, the training time for the SVM is very long. In future research, we need to investigate how different vectorized methods will influence the performance of each model, and if the use normalization method will improve the performance and test more advanced deep learning models such as CNN-LSTM.
