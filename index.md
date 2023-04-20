@@ -24,7 +24,7 @@ My goals will be as following bullets:
 
 <p align="middle">
   CNN model
-  <img src="https://github.com/changyming/8803Project/blob/webpage/CNN123.png?raw=true" width="500">
+  <img src="https://github.com/changyming/8803Project/blob/webpage/CNN123.png?raw=true" width="500" title=”Optional image title” >
   <img src="https://github.com/changyming/8803Project/blob/webpage/NB.png?raw=true" width="500">
   <img src="https://github.com/changyming/8803Project/blob/webpage/SVM.png?raw=true" width="500">
   <img src="https://github.com/changyming/8803Project/blob/webpage/RF.png?raw=true" width="500">
