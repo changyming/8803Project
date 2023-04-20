@@ -54,7 +54,7 @@ My goals will be as following bullets:
  </p>
  
  <p align="middle">
-  <img src="https://github.com/changyming/8803Project/blob/webpage/Table2?raw=true" width=500>
+  <img src="https://github.com/changyming/8803Project/blob/webpage/Table2.png" width=500>
  </p>
  <p align="middle">
   Fig6. evaluation table
