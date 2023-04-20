@@ -23,27 +23,40 @@ My goals will be as following bullets:
 ## Results
 
 
-<p align="center">
+<p align="right">
   <img src="https://github.com/changyming/8803Project/blob/webpage/CNN123.png?raw=true">
 </p>
-
+<p align="right">
+  Figure 1. Confusion Matrix of CNN model
+ </p>
 
 <p align="center">
   <img src="https://github.com/changyming/8803Project/blob/webpage/NB.png?raw=true">
 </p>
-
-
 <p align="center">
+  Figure 2. Confusion Matrix of Naive Bayes Model
+ </p>
+
+
+<p align="left">
   <img src="https://github.com/changyming/8803Project/blob/webpage/SVM.png?raw=true">
 </p>
+<p align="left">
+  Figure 3. Confusion Matrix of SVM Model
+ </p>
 
-
-<p align="center">
+<p align="right">
   <img src="https://github.com/changyming/8803Project/blob/webpage/RF.png?raw=true">
 </p>
+<p align="right">
+  Figure 2. Confusion Matrix of Random Forest Model
+ </p>
 
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/changyming/8803Project/blob/webpage/XG.png?raw=true">
 </p>
+<p align="left">
+  Figure 2. Confusion Matrix of XG Boost Model
+ </p>
 
