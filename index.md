@@ -21,6 +21,12 @@ My goals will be as following bullets:
 - Compare the performance of each model and generate the confusion matrix of each model
 
 ## Results
+ <p align="middle">
+  <img src="https://github.com/changyming/8803Project/blob/webpage/dist1.png" width=500>
+ </p>
+ <p align="middle">
+  <img src="https://github.com/changyming/8803Project/blob/webpage/Table2.png" width=500>
+ </p>
 
  <p align="middle">
   <img src="https://github.com/changyming/8803Project/blob/webpage/Table2.png" width=500>
