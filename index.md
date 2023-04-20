@@ -29,21 +29,21 @@ My goals will be as following bullets:
 
 
 <p align="center">
-  <img src="https://github.com/changyming/8803Project/blob/webpage/NB.png">
+  <img src="https://github.com/changyming/8803Project/blob/webpage/NB.png?raw=true">
 </p>
 
 
 <p align="center">
-  <img src="https://github.com/changyming/8803Project/blob/webpage/SVM.png">
+  <img src="https://github.com/changyming/8803Project/blob/webpage/SVM.png?raw=true">
 </p>
 
 
 <p align="center">
-  <img src="https://github.com/changyming/8803Project/blob/webpage/RF.png">
+  <img src="https://github.com/changyming/8803Project/blob/webpage/RF.png?raw=true">
 </p>
 
 
 <p align="center">
-  <img src="https://github.com/changyming/8803Project/blob/webpage/XG.png">
+  <img src="https://github.com/changyming/8803Project/blob/webpage/XG.png?raw=true">
 </p>
 
