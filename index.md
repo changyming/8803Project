@@ -63,7 +63,11 @@ My goals will be as following bullets:
 </p>
 
 <p align="middle">
- <img src="https://github.com/changyming/8803Project/blob/webpage/XG.png?raw=true" width=500>
+ <img src="https://github.com/changyming/8803Project/blob/webpage/tables.png?raw=true" width=500>
+</p>
+
+<p align="middle">
+ Table. Evaluation Table
 </p>
 
 ## Conclusion
