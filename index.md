@@ -61,5 +61,19 @@ My goals will be as following bullets:
  </p>
  
  
- 
-
+ ### Conclusion
+In this project, I explore how to convert text data into numeric
+values using TF-IDF. Furthermore, I tested the performance of serval
+machine learning models and basic CNN models, such as the Naive
+Bayes Model, SVM, Random Forest model, XG Boost model, and
+CNN model, and used Naive Bayes Model as the baseline model.
+Based on the results, we can see that the accuracy of each model is
+better than the baseline model. However, the training time for other
+models is longer than the baseline model. In this project, The XG
+Boost and SVM have the best prediction accuracy. However, due to
+the number of training data and the dimension of the dataset, the
+training time for the SVM is very long. In future research, we need
+to investigate how di￿erent vectorized methods will in￿uence the
+performance of each model, and if the use normalization method
+will improve the performance and test more advanced deep learning
+models such as CNN-LSTM.
