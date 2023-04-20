@@ -23,6 +23,10 @@ My goals will be as following bullets:
 ## Results
 
 <p align="middle">
+  <figure>
+  <img src="https://github.com/changyming/8803Project/blob/webpage/CNN123.png?raw=true" width="500">
+  <figcaption>MDN Logo</figcaption>
+  </figure>
   <img src="https://github.com/changyming/8803Project/blob/webpage/CNN123.png?raw=true" width="500">
   Figure 3. code problem
   <img src="https://github.com/changyming/8803Project/blob/webpage/NB.png?raw=true" width="500">
