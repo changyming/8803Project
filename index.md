@@ -62,5 +62,9 @@ My goals will be as following bullets:
  Fig5. confusion matrix of XG Boost model
 </p>
 
+<p align="middle">
+ <img src="https://github.com/changyming/8803Project/blob/webpage/XG.png?raw=true" width=500>
+</p>
+
 ## Conclusion
 Based on the results, we can see that the accuracy of each model is better than the baseline model. However, the training time for other models is longer than the baseline model. In this project, The XG Boost and SVM have the best prediction accuracy. However, due to the number of training data and the dimension of the dataset, the training time for the SVM is very long. In future research, we need to investigate how different vectorized methods will influence the performance of each model, and if the use normalization method will improve the performance and test more advanced deep learning models such as CNN-LSTM.
