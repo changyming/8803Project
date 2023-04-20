@@ -53,5 +53,13 @@ My goals will be as following bullets:
   Fig5. confusion matrix of XG Boost model
  </p>
  
+ <p align="middle">
+  <img src="https://github.com/changyming/8803Project/blob/webpage/Table2?raw=true" width=500>
+ </p>
+ <p align="middle">
+  Fig6. evaluation table
+ </p>
+ 
+ 
  
 
