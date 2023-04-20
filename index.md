@@ -21,6 +21,16 @@ My goals will be as following bullets:
 - Compare the performance of each model and generate the confusion matrix of each model
 
 ## Results
+<figure>
+  <img
+    src="https://developer.mozilla.org/static/img/favicon144.png"
+     alt="The beautiful MDN logo."
+     class="img-responsive"
+     style="float: right; 
+height: 65%; width: 65%; margin-left: 1em; margin-top: 2em;"
+    >
+  <figcaption>MDN Logo</figcaption>
+</figure>
 
 <p align="middle">
   <img src="https://github.com/changyming/8803Project/blob/webpage/CNN123.png?raw=true" width="500">
