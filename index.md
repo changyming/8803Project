@@ -26,12 +26,32 @@ My goals will be as following bullets:
   <img src="https://github.com/changyming/8803Project/blob/webpage/CNN123.png?raw=true" width="500">
  </p>
  <p align="middle">
-  confusion matrix of CNN model
+  Fig1. confusion matrix of CNN model
  </p>
- 
+ <p align="middle">
   <img src="https://github.com/changyming/8803Project/blob/webpage/NB.png?raw=true" width="500">
+  </p>
+  <p align="middle">
+  Fig2. confusion matrix of Naive Bayes model
+ </p>
+ <p align="middle">
   <img src="https://github.com/changyming/8803Project/blob/webpage/SVM.png?raw=true" width="500">
+ </p>
+  <p align="middle">
+  Fig3. confusion matrix of SVM model
+ </p>
+ <p align="middle">
   <img src="https://github.com/changyming/8803Project/blob/webpage/RF.png?raw=true" width="500">
+ </p>
+ <p align="middle">
+  Fig4. confusion matrix of Random Forest model
+ </p>
+ <p align="middle">
   <img src="https://github.com/changyming/8803Project/blob/webpage/XG.png?raw=true" width=500>
  </p>
+ <p align="middle">
+  Fig5. confusion matrix of XG Boost model
+ </p>
+ 
+ 
 
