@@ -22,6 +22,13 @@ My goals will be as following bullets:
 
 ## Results
 
+ <p align="middle">
+  <img src="https://github.com/changyming/8803Project/blob/webpage/Table2.png" width=500>
+ </p>
+ <p align="middle">
+  Fig6. evaluation table
+ </p>
+
 <p align="middle">
   <img src="https://github.com/changyming/8803Project/blob/webpage/CNN123.png?raw=true" width="500">
  </p>
