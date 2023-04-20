@@ -23,11 +23,10 @@ My goals will be as following bullets:
 ## Results
 
 <p align="middle">
-  <img src="https://github.com/changyming/8803Project/blob/webpage/CNN123.png?raw=true">
-  Figure 1. Confusion Matrix of CNN model
-  <img src="https://github.com/changyming/8803Project/blob/webpage/NB.png?raw=true">
-  <img src="https://github.com/changyming/8803Project/blob/webpage/SVM.png?raw=true">
-  <img src="https://github.com/changyming/8803Project/blob/webpage/RF.png?raw=true">
+  <img src="https://github.com/changyming/8803Project/blob/webpage/CNN123.png?raw=true" width="100">
+  <img src="https://github.com/changyming/8803Project/blob/webpage/NB.png?raw=true" width="100">
+  <img src="https://github.com/changyming/8803Project/blob/webpage/SVM.png?raw=true" width="100">
+  <img src="https://github.com/changyming/8803Project/blob/webpage/RF.png?raw=true" width="100">
  </p>
 
 <p align="center">
