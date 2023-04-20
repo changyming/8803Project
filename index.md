@@ -21,29 +21,14 @@ My goals will be as following bullets:
 - Compare the performance of each model and generate the confusion matrix of each model
 
 ## Results
-<p align="left">
-<figure>
-  <img
-   src="https://github.com/changyming/8803Project/blob/webpage/CNN123.png?raw=true" width="500"
-  <figcaption>MDN Logo</figcaption>
+<figure class="inline end" markdown>
+  ![image7]("https://github.com/changyming/8803Project/blob/webpage/CNN123.png?raw=true")
+  <figcaption>An assembled 'base' PCB</figcaption>
 </figure>
-</p>
-
-<p align="right">
-<figure>
-  <img
-   src="https://github.com/changyming/8803Project/blob/webpage/CNN123.png?raw=true" width="500"
-  <figcaption>MDN Logo</figcaption>
-</figure>
-</p>
 
 
 <p align="middle">
   <img src="https://github.com/changyming/8803Project/blob/webpage/CNN123.png?raw=true" width="500">
-  <br>
-    <em>caption</em>
-  <img src="https://github.com/changyming/8803Project/blob/webpage/CNN123.png?raw=true" width="500">
-  Figure 3. code problem
   <img src="https://github.com/changyming/8803Project/blob/webpage/NB.png?raw=true" width="500">
   <img src="https://github.com/changyming/8803Project/blob/webpage/SVM.png?raw=true" width="500">
   <img src="https://github.com/changyming/8803Project/blob/webpage/RF.png?raw=true" width="500">
